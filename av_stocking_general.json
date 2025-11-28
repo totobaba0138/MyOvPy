@@ -1,0 +1,105 @@
+{
+  "TIER_1": {
+    "IGNORE": [
+      "woman undressing or stripping slowly",
+      "foreplay, kissing, touching breasts only",
+      "cunnilingus or pussy licking only without penetration",
+      "woman showering or taking bath",
+      "close-up of breasts or ass, no sex",
+      "dialogue scene, actors talking, interview",
+      "intro title screen, dvd cover",
+      "solo female posing or dancing naked",
+      "walking on street, daily life scene",
+      "fully clothed people, office scene"
+    ],
+    "NOISE": [
+      "black screen",
+      "white screen",
+      "blurry out of focus background",
+      "furniture",
+      "wall texture",
+      "ceiling light",
+      "carpet pattern",
+      "static noise image",
+      "text credits"
+    ],
+    "TARGET": [
+      "close-up penis inside vagina",
+      "hardcore penetration intercourse",
+      "erect penis thrusting into pussy",
+      "visible genital intercourse",
+      "sex scene with mosaic censorship on genitals",
+      "pixelated penis penetrating vagina",
+      "blurred genitals during intercourse",
+      "japanese av sex scene, censored genitals",
+      "mosaic covering connection between legs",
+      "censored hardcore sex",
+      "doggy style with pixelated genitals",
+      "missionary sex with mosaic blur"
+    ]
+  },
+  "TIER_2": {
+    "stocking_sex": {
+      "pos": [
+        "penis penetrating vagina with woman in pantyhose",
+        "hardcore sex, woman wearing black stockings",
+        "doggy style sex, legs in fishnet stockings",
+        "missionary position, blurred genitals, black tights",
+        "legs wrapped around man's waist, wearing stockings",
+        "mosaic penis inside vagina, black nylon legs",
+        "hips thrusting against stockings"
+      ],
+      "neg": [
+        "fingering only without penis",
+        "licking only without penetration",
+        "solo masturbation",
+        "massage only",
+        "fully clothed",
+        "bare legs",
+        "naked legs",
+        "bare skin",
+        "no stockings",
+        "no pantyhose"
+      ],
+      "weight": 1.5
+    },
+    "blow_job": {
+      "pos": [
+        "blowjob close-up",
+        "licking penis head",
+        "deepthroat with mosaic",
+        "face fucking",
+        "mouth on genitals",
+        "cunnilingus",
+        "tongue on clitoris"
+      ],
+      "neg": [
+        "man's body on top of woman",
+        "legs wrapped around man's waist",
+        "man's hips between woman's legs",
+        "cowgirl position",
+        "doggy style position",
+        "wide shot",
+        "full body shot",
+        "two people full body",
+        "face to face",
+        "mouth on mouth",
+        "kissing on lips",
+        "tongue kissing",
+        "faces touching",
+        "looking into eyes",
+        "making out",
+        "hugging upper body",
+        "man kissing woman",
+        "vaginal penetration",
+        "anal sex",
+        "intercourse",
+        "thrusting hips",
+        "hardcore sex",
+        "buttocks moving fast",
+        "legs in the air"
+      ],
+      "weight": 0.8
+    }
+  }
+}

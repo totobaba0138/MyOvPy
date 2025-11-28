@@ -1,0 +1,7 @@
+### 触发丝袜扫描业务
+POST http://127.0.0.1:8000/api/jav-stocking
+Content-Type: application/json
+
+{
+  "video_path": "/Volumes/SEAGATE/myov/done/nurse/IPZZ-257_1764080213463_named_d3.mp4"
+}
