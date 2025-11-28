@@ -17,4 +17,4 @@ app.include_router(stocking.router, prefix="/api", tags=["JAV"])
 
 if __name__ == "__main__":
     # 保持单线程处理
-    uvicorn.run("app.main:app", host="0.0.0.0", port=8000, workers=1)
+    uvicorn.run("MyOvPy.main:MyOvPy", host="0.0.0.0", port=8000, workers=1)
